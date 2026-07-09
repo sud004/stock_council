@@ -36,6 +36,16 @@ stock_council/reports/
 # ─── Cache dir ────────────────────────────────────────────────────────────────
 stock_council/cache/
 
+# ─── Nightly memory snapshots (auto-generated per run) ────────────────────────
+stock_council/memory/council_*.json
+stock_council/memory/market_*.json
+
+# ─── Downloaded embedding models (large binary, auto-downloaded) ───────────────
+stock_council/models/
+
+# ─── SQLite database (auto-created at runtime) ────────────────────────────────
+stock_council/data/stock_council.db
+
 # ─── Excel output (trackers kept; raw data dumps ignored) ─────────────────────
 stock_council/data/excel/
 
