@@ -50,6 +50,11 @@ stock_council/data/portfolio_state_backup*.json
 # ─── NSE holidays / universe cache (auto-fetched) ─────────────────────────────
 stock_council/data/nse_holidays_cache.json
 
+# ─── Excel lock / temp files ──────────────────────────────────────────────────
+~$*.xlsx
+~$*.xls
+~$*.docx
+
 # ─── OS & editor junk ─────────────────────────────────────────────────────────
 .DS_Store
 Thumbs.db
