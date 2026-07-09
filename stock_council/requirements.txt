@@ -1,0 +1,75 @@
+# ============================================================
+# requirements.txt — Indian Stock Market Bot Council
+# Python 3.11 | Windows 10/11 | 16GB RAM
+# NO strict pinning — let pip resolve compatible versions
+# Install: pip install -r requirements.txt
+# ============================================================
+
+# ── Core Data Science ─────────────────────────────────────────
+pandas>=2.1.0
+numpy>=1.26.4,<2.0.0
+scipy>=1.11.0
+
+# ── Market Data ───────────────────────────────────────────────
+yfinance>=0.2.61
+curl-cffi>=0.6.0
+
+# ── Technical Analysis ────────────────────────────────────────
+ta>=0.11.0
+
+# ── Web & News ────────────────────────────────────────────────
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+feedparser>=6.0.10
+lxml>=4.9.0
+urllib3>=2.0.0
+
+# ── NLP Sentiment (offline) ───────────────────────────────────
+vaderSentiment>=3.3.2
+
+# ── LangChain — let pip pick compatible versions ──────────────
+langchain>=0.3.0,<0.4.0
+langchain-core>=0.3.0,<0.4.0
+langchain-community>=0.3.0,<0.4.0
+langchain-text-splitters>=0.3.0,<0.4.0
+langchain-ollama>=0.3.0,<0.4.0
+langchain-huggingface>=0.1.0
+langchain-chroma>=0.1.0,<0.2.0
+
+# ── ChromaDB — must match langchain-chroma 0.1.x ─────────────
+chromadb>=0.4.0,<0.6.0
+
+# ── Local Embeddings ──────────────────────────────────────────
+sentence-transformers>=2.7.0
+
+# ── Ollama ────────────────────────────────────────────────────
+ollama>=0.4.8
+
+# ── Excel Reports ─────────────────────────────────────────────
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# ── Ventura EaseAPI ───────────────────────────────────────────
+pyotp>=2.9.0
+websocket-client>=1.7.0
+
+# ── Scheduling ────────────────────────────────────────────────
+schedule>=1.2.0
+
+# ── Environment & Config ──────────────────────────────────────
+python-dotenv>=1.0.0
+pytz>=2023.3
+
+# ── Terminal Display ──────────────────────────────────────────
+tqdm>=4.65.0
+rich>=13.0.0
+colorama>=0.4.6
+tabulate>=0.9.0
+
+# ── HTTP & Retry ──────────────────────────────────────────────
+tenacity>=8.2.0
+httpx>=0.25.0
+
+# ── Utils ─────────────────────────────────────────────────────
+orjson>=3.9.0
+python-dateutil>=2.8.0

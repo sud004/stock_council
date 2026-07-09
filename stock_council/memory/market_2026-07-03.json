@@ -1,0 +1,55 @@
+{
+  "market_score": 5.0,
+  "market_outlook": "NEUTRAL",
+  "fii_net_cr": null,
+  "dii_net_cr": null,
+  "fii_dii_signal": "NEUTRAL",
+  "vix": null,
+  "vix_signal": "CALM_BULLISH",
+  "advance_count": 0,
+  "decline_count": 0,
+  "ad_ratio": null,
+  "breadth_signal": "NEUTRAL",
+  "indices": [],
+  "global_cues": {
+    "Dow Jones": {
+      "price": 52900.07,
+      "change_pct": 1.14
+    },
+    "Nasdaq": {
+      "price": 25832.67,
+      "change_pct": -0.8
+    },
+    "S&P 500": {
+      "price": 7483.24,
+      "change_pct": 0.0
+    },
+    "Nikkei 225": {
+      "price": 69744.07,
+      "change_pct": 1.45
+    },
+    "Hang Seng": {
+      "price": 23350.03,
+      "change_pct": 1.28
+    },
+    "Crude Oil (WTI)": {
+      "price": 68.78,
+      "change_pct": 1.58
+    },
+    "Gold": {
+      "price": 4187.3,
+      "change_pct": 2.57
+    },
+    "EUR/INR": {
+      "price": 108.9,
+      "change_pct": -0.15
+    },
+    "USD/INR": {
+      "price": 95.2,
+      "change_pct": -0.19
+    }
+  },
+  "llm_analysis": "[STALL-ABORTED]",
+  "_date": "2026-07-03",
+  "_saved_at": "2026-07-04T10:48:32.812405+05:30"
+}

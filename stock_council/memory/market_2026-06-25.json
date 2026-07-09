@@ -1,0 +1,55 @@
+{
+  "market_score": 5.0,
+  "market_outlook": "NEUTRAL",
+  "fii_net_cr": null,
+  "dii_net_cr": null,
+  "fii_dii_signal": "NEUTRAL",
+  "vix": null,
+  "vix_signal": "CALM_BULLISH",
+  "advance_count": 0,
+  "decline_count": 0,
+  "ad_ratio": null,
+  "breadth_signal": "NEUTRAL",
+  "indices": [],
+  "global_cues": {
+    "Dow Jones": {
+      "price": 51848.9,
+      "change_pct": 0.35
+    },
+    "Nasdaq": {
+      "price": 25476.64,
+      "change_pct": -0.43
+    },
+    "S&P 500": {
+      "price": 7358.22,
+      "change_pct": -0.1
+    },
+    "Nikkei 225": {
+      "price": 72366.34,
+      "change_pct": 4.46
+    },
+    "Hang Seng": {
+      "price": 23076.91,
+      "change_pct": -1.43
+    },
+    "Crude Oil (WTI)": {
+      "price": 69.72,
+      "change_pct": 0.56
+    },
+    "Gold": {
+      "price": 3994.7,
+      "change_pct": -0.44
+    },
+    "EUR/INR": {
+      "price": 107.18,
+      "change_pct": -0.29
+    },
+    "USD/INR": {
+      "price": 94.39,
+      "change_pct": -0.27
+    }
+  },
+  "llm_analysis": "Market Direction Today: Sideways  \nFII Intent: Neutral, no significant buying or selling observed.  \nMarket Breadth: Neutral, with zero advances and declines, indicating a lack of broad-based participation.  \nKey Risk for Today's Session: Volatility in global markets, particularly the Nasdaq\u2019s decline, could impact sentiment.  \nDominant Theme: Defensive plays might be favored given the neutral VIX and mixed global cues.\n\nGiven today's data, sectors like Healthcare and Consumer Goods may outperform as defensive themes, while IT and Banking could face pressure due to the broader market sideways trend and lack of clear direction. \n\nMARKET SCORE: 5/10",
+  "_date": "2026-06-25",
+  "_saved_at": "2026-06-25T17:22:35.595327+05:30"
+}

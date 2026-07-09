@@ -1,0 +1,68 @@
+{
+  "pred_weights": {
+    "tech_momentum": 0.35,
+    "fund_quality": 0.2,
+    "news_sentiment": 0.15,
+    "market_beta": 0.2,
+    "mean_reversion": 0.1
+  },
+  "score_weights": {
+    "fundamental": 0.3,
+    "technical": 0.25,
+    "news": 0.2,
+    "sentiment": 0.15,
+    "risk": 0.1
+  },
+  "last_optimized": "2026-07-08",
+  "optimization_count": 14,
+  "change_log": [
+    {
+      "date": "2026-06-17",
+      "changes": []
+    },
+    {
+      "date": "2026-06-17",
+      "changes": []
+    },
+    {
+      "date": "2026-06-17",
+      "changes": []
+    },
+    {
+      "date": "2026-06-17",
+      "changes": []
+    },
+    {
+      "date": "2026-06-19",
+      "changes": []
+    },
+    {
+      "date": "2026-06-19",
+      "changes": []
+    },
+    {
+      "date": "2026-06-22",
+      "changes": []
+    },
+    {
+      "date": "2026-06-23",
+      "changes": []
+    },
+    {
+      "date": "2026-06-25",
+      "changes": []
+    },
+    {
+      "date": "2026-06-29",
+      "changes": []
+    },
+    {
+      "date": "2026-07-03",
+      "changes": []
+    },
+    {
+      "date": "2026-07-08",
+      "changes": []
+    }
+  ]
+}

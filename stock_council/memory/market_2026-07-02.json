@@ -1,0 +1,55 @@
+{
+  "market_score": 5.0,
+  "market_outlook": "NEUTRAL",
+  "fii_net_cr": null,
+  "dii_net_cr": null,
+  "fii_dii_signal": "NEUTRAL",
+  "vix": null,
+  "vix_signal": "CALM_BULLISH",
+  "advance_count": 0,
+  "decline_count": 0,
+  "ad_ratio": null,
+  "breadth_signal": "NEUTRAL",
+  "indices": [],
+  "global_cues": {
+    "Dow Jones": {
+      "price": 52305.24,
+      "change_pct": -0.03
+    },
+    "Nasdaq": {
+      "price": 26040.03,
+      "change_pct": -0.66
+    },
+    "S&P 500": {
+      "price": 7483.23,
+      "change_pct": -0.22
+    },
+    "Nikkei 225": {
+      "price": 68733.15,
+      "change_pct": -2.4
+    },
+    "Hang Seng": {
+      "price": 23055.03,
+      "change_pct": 0.76
+    },
+    "Crude Oil (WTI)": {
+      "price": 67.29,
+      "change_pct": -0.62
+    },
+    "Gold": {
+      "price": 4081.5,
+      "change_pct": -0.02
+    },
+    "EUR/INR": {
+      "price": 108.81,
+      "change_pct": 0.39
+    },
+    "USD/INR": {
+      "price": 95.39,
+      "change_pct": 0.16
+    }
+  },
+  "llm_analysis": "Given the current data, the market is in a neutral stance with no significant buying or selling pressure from FIIs, and DII flows are also neutral. The A/D ratio is not providing any clear bullish or bearish signals due to the lack of advances and declines. Global markets show mixed sentiment, with some indices like Hang Seng showing strength while others like Nikkei 225 are underperforming.\n\nThe India VIX suggests a calm market environment, which could support further gains if sustained. However, the absence of clear breadth signals indicates that broad participation is lacking.\n\n**Market Direction Today:** Sideways\n\n**FII Intent:** Neutral\n\n**Market Breadth:** Neutral (No significant advances or declines)\n\n**Key Risk for Today's Session:** Lack of clear directional momentum and low market breadth could lead to volatility if global cues turn negative.\n\n**Dominant Theme:** Defensive plays might be favored due to the current neutral stance. Banks and IT sectors, which have shown resilience in past volatile periods, could outperform as safe-haven bets.\n\n**MARKET SCORE: 5/10**",
+  "_date": "2026-07-02",
+  "_saved_at": "2026-07-02T17:26:30.796674+05:30"
+}

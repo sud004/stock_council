@@ -1,0 +1,76 @@
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.Python
+env/
+venv/
+.venv/
+.env
+*.env
+
+# ─── Data caches (large / auto-regenerated) ───────────────────────────────────
+stock_council/data/prices/
+stock_council/data/news/
+stock_council/data/fundamentals/
+stock_council/data/embeddings/
+stock_council/data/vectors/
+stock_council/data/scores/
+stock_council/data/backups/
+
+# ─── Daily bot checkpoint caches ──────────────────────────────────────────────
+stock_council/data/bot_cache_*.json
+stock_council/data/council_checkpoint_*.json
+stock_council/data/portfolio_state_backup_*.json
+
+# ─── Nightly reports (auto-generated each run) ────────────────────────────────
+stock_council/reports/
+
+# ─── Cache dir ────────────────────────────────────────────────────────────────
+stock_council/cache/
+
+# ─── Excel output (trackers kept; raw data dumps ignored) ─────────────────────
+stock_council/data/excel/
+
+# ─── Versioned night_runner snapshots (one-off backups) ───────────────────────
+stock_council/night_runner2026*.py
+
+# ─── Sensitive / personal state files — keep locally, not on GitHub ───────────
+stock_council/data/portfolio_state.json
+stock_council/data/portfolio_state_v2.json
+stock_council/data/portfolio_state_backup*.json
+
+# ─── NSE holidays / universe cache (auto-fetched) ─────────────────────────────
+stock_council/data/nse_holidays_cache.json
+
+# ─── OS & editor junk ─────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ─── Jupyter ──────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ─── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ─── Secrets / API keys ───────────────────────────────────────────────────────
+*.key
+*.pem
+secrets.json
+credentials.json
+.env*
+config_local.py

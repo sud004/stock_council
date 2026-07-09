@@ -1,0 +1,55 @@
+{
+  "market_score": 5.0,
+  "market_outlook": "NEUTRAL",
+  "fii_net_cr": null,
+  "dii_net_cr": null,
+  "fii_dii_signal": "NEUTRAL",
+  "vix": null,
+  "vix_signal": "CALM_BULLISH",
+  "advance_count": 0,
+  "decline_count": 0,
+  "ad_ratio": null,
+  "breadth_signal": "NEUTRAL",
+  "indices": [],
+  "global_cues": {
+    "Dow Jones": {
+      "price": 52925.15,
+      "change_pct": -0.25
+    },
+    "Nasdaq": {
+      "price": 25818.69,
+      "change_pct": -1.16
+    },
+    "S&P 500": {
+      "price": 7503.85,
+      "change_pct": -0.45
+    },
+    "Nikkei 225": {
+      "price": 67737.83,
+      "change_pct": -0.98
+    },
+    "Hang Seng": {
+      "price": 24164.22,
+      "change_pct": 2.84
+    },
+    "Crude Oil (WTI)": {
+      "price": 72.87,
+      "change_pct": 0.86
+    },
+    "Gold": {
+      "price": 4134.9,
+      "change_pct": -0.12
+    },
+    "EUR/INR": {
+      "price": 108.61,
+      "change_pct": 0.18
+    },
+    "USD/INR": {
+      "price": 95.14,
+      "change_pct": 0.19
+    }
+  },
+  "llm_analysis": "**Market Direction Today:** Sideways  \n**FII Intent:** Neutral  \n**Market Breadth:** Neutral, with no advances or declines indicating a lack of broad participation.  \n**Key Risk for Today's Session:** Global market sell-offs and neutral FII flows could lead to cautious trading.  \n**Dominant Theme:** Defensive sectors may see some support due to the calm bullish VIX environment.\n\nGiven the current scenario, **defensive themes like FMCG and Healthcare are likely to outperform**, while IT and infrastructure may underperform amidst global uncertainties. The market is expected to remain range-bound with limited upside potential.\n\n**MARKET SCORE: 5/10**",
+  "_date": "2026-07-07",
+  "_saved_at": "2026-07-08T11:02:50.814652+05:30"
+}

@@ -1,0 +1,55 @@
+{
+  "market_score": 5.0,
+  "market_outlook": "NEUTRAL",
+  "fii_net_cr": null,
+  "dii_net_cr": null,
+  "fii_dii_signal": "NEUTRAL",
+  "vix": null,
+  "vix_signal": "CALM_BULLISH",
+  "advance_count": 0,
+  "decline_count": 0,
+  "ad_ratio": null,
+  "breadth_signal": "NEUTRAL",
+  "indices": [],
+  "global_cues": {
+    "Dow Jones": {
+      "price": 51876.11,
+      "change_pct": -0.09
+    },
+    "Nasdaq": {
+      "price": 25297.62,
+      "change_pct": -0.24
+    },
+    "S&P 500": {
+      "price": 7354.02,
+      "change_pct": -0.05
+    },
+    "Nikkei 225": {
+      "price": 69468.11,
+      "change_pct": 0.52
+    },
+    "Hang Seng": {
+      "price": 23026.68,
+      "change_pct": 1.57
+    },
+    "Crude Oil (WTI)": {
+      "price": 70.05,
+      "change_pct": -0.01
+    },
+    "Gold": {
+      "price": 4058.9,
+      "change_pct": -0.6
+    },
+    "EUR/INR": {
+      "price": 107.82,
+      "change_pct": 0.41
+    },
+    "USD/INR": {
+      "price": 94.53,
+      "change_pct": 0.24
+    }
+  },
+  "llm_analysis": "### Market Analysis & Outlook:\n\n**Market Direction Today:** Sideways  \n**FII Intent:** Neutral  \n**Market Breadth:** Neutral (0 advances, 0 declines)  \n**Key Risk for Today's Session:** Lack of clear direction and low participation.  \n**Dominant Theme:** Defensive\n\nWith no index data available, the current market sentiment is neutral as indicated by FII flows being neutral and DII net flows at zero. The A/D ratio is also neutral with no advances or declines. Given the global cues showing mixed performance, particularly with the US markets slightly down, investors might be cautious.\n\nThe India VIX reading suggests a calm but bullish outlook, indicating that volatility is low and sentiment is positive. However, without significant buying pressure from FIIs or strong breadth participation, it\u2019s likely we will see a sideways market today.\n\n**BROAD THEME:** Defensive\n\nGiven the current environment, sectors like **Pharmaceuticals**, **Consumer Goods**, and **FMCG** might outperform as they are typically seen as defensive plays. Conversely, more cyclical sectors such as **IT Services** or **Real Estate** may underperform due to the cautious sentiment.\n\n### MARKET SCORE: 5/10",
+  "_date": "2026-06-29",
+  "_saved_at": "2026-06-29T18:21:40.874375+05:30"
+}

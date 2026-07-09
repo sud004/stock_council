@@ -1,0 +1,55 @@
+{
+  "market_score": 6.0,
+  "market_outlook": "NEUTRAL",
+  "fii_net_cr": 393.19,
+  "dii_net_cr": -383.43,
+  "fii_dii_signal": "BULLISH",
+  "vix": null,
+  "vix_signal": "CALM_BULLISH",
+  "advance_count": 0,
+  "decline_count": 0,
+  "ad_ratio": null,
+  "breadth_signal": "NEUTRAL",
+  "indices": [],
+  "global_cues": {
+    "Dow Jones": {
+      "price": 52925.15,
+      "change_pct": -0.25
+    },
+    "Nasdaq": {
+      "price": 25818.69,
+      "change_pct": -1.16
+    },
+    "S&P 500": {
+      "price": 7503.85,
+      "change_pct": -0.45
+    },
+    "Nikkei 225": {
+      "price": 66819.05,
+      "change_pct": -2.33
+    },
+    "Hang Seng": {
+      "price": 24199.46,
+      "change_pct": 2.99
+    },
+    "Crude Oil (WTI)": {
+      "price": 74.25,
+      "change_pct": 2.75
+    },
+    "Gold": {
+      "price": 4062.3,
+      "change_pct": -1.73
+    },
+    "EUR/INR": {
+      "price": 109.04,
+      "change_pct": 0.58
+    },
+    "USD/INR": {
+      "price": 95.56,
+      "change_pct": 0.63
+    }
+  },
+  "llm_analysis": "Today's market shows a neutral stance with FII flows tilting slightly bullish, but DII flows are negative. The absence of advances or declines in breadth signals a lack of broad participation. Global markets show mixed sentiment, with the Nasdaq and Hang Seng leading the way, while Nikkei 225 is under pressure.\n\nThe key risk today is the potential impact from global market volatility, particularly given the strong sell-off in Nikkei 225. The theme that appears to be in favor is Defensive, as investors might seek safer assets amid global uncertainty.\n\n**Market Direction:** Sideways  \n**FII Intent:** Bullish (but with caution)  \n**Breadth:** Neutral (lack of participation)  \n**Key Risk:** Global market volatility  \n**Dominant Theme:** Defensive\n\nMARKET SCORE: 6.0/10",
+  "_date": "2026-07-08",
+  "_saved_at": "2026-07-08T17:00:27.932547+05:30"
+}

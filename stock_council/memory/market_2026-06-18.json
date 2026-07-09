@@ -1,0 +1,55 @@
+{
+  "market_score": 5.0,
+  "market_outlook": "NEUTRAL",
+  "fii_net_cr": null,
+  "dii_net_cr": null,
+  "fii_dii_signal": "NEUTRAL",
+  "vix": null,
+  "vix_signal": "CALM_BULLISH",
+  "advance_count": 0,
+  "decline_count": 0,
+  "ad_ratio": null,
+  "breadth_signal": "NEUTRAL",
+  "indices": [],
+  "global_cues": {
+    "Dow Jones": {
+      "price": 51759.43,
+      "change_pct": 0.5
+    },
+    "Nasdaq": {
+      "price": 26367.18,
+      "change_pct": 1.33
+    },
+    "S&P 500": {
+      "price": 7493.23,
+      "change_pct": 0.96
+    },
+    "Nikkei 225": {
+      "price": 71053.49,
+      "change_pct": 1.5
+    },
+    "Hang Seng": {
+      "price": 23924.81,
+      "change_pct": -1.59
+    },
+    "Crude Oil (WTI)": {
+      "price": 73.27,
+      "change_pct": -1.7
+    },
+    "Gold": {
+      "price": 4262.8,
+      "change_pct": -1.77
+    },
+    "EUR/INR": {
+      "price": 108.32,
+      "change_pct": -0.85
+    },
+    "USD/INR": {
+      "price": 94.32,
+      "change_pct": -0.2
+    }
+  },
+  "llm_analysis": "**Market Direction Today:** Sideways  \n**FII Intent:** Neutral  \n**Market Breadth:** Neutral, with no advances or declines indicating a lack of broad-based participation.  \n**Key Risk for Today's Session:** Volatility in global markets and the potential impact on sentiment.  \n**Dominant Theme Today:** Defensive Themes Likely to Outperform\n\nGiven the neutral FII flows and the absence of significant breadth, the market is likely to remain range-bound today. The calm VIX suggests a relatively stable environment, but the mixed signals from global cues pose some risk. Defensive sectors such as Consumer Goods and Healthcare could outperform due to their lower sensitivity to economic fluctuations.\n\n**MARKET SCORE: 5/10**\n\n--- \n\nThis analysis reflects the current market conditions and provides guidance on sector selection for today's trading session.",
+  "_date": "2026-06-18",
+  "_saved_at": "2026-06-18T20:31:51.068412+05:30"
+}

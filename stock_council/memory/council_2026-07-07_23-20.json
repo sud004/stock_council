@@ -1,0 +1,163 @@
+{
+  "date": "2026-07-07",
+  "timestamp": "2026-07-07T23:20:37.462579+05:30",
+  "sectors": [
+    {
+      "name": "New Age Tech",
+      "score": 7.05,
+      "verdict": "BUY",
+      "avg_1m": 20.67,
+      "avg_rsi": 65.4,
+      "top_stocks": [
+        "CARTRADE",
+        "PAYTM",
+        "NYKAA"
+      ]
+    },
+    {
+      "name": "Consumer Staples",
+      "score": 6.9,
+      "verdict": "ACCUMULATE",
+      "avg_1m": 5.92,
+      "avg_rsi": 59.5,
+      "top_stocks": [
+        "HINDUNILVR",
+        "DABUR",
+        "BRITANNIA"
+      ]
+    },
+    {
+      "name": "Real Estate",
+      "score": 6.78,
+      "verdict": "ACCUMULATE",
+      "avg_1m": 20.76,
+      "avg_rsi": 70.8,
+      "top_stocks": [
+        "PRESTIGE",
+        "GODREJPROP",
+        "PHOENIXLTD"
+      ]
+    },
+    {
+      "name": "Financial Services",
+      "score": 6.55,
+      "verdict": "ACCUMULATE",
+      "avg_1m": 8.0,
+      "avg_rsi": 57.2,
+      "top_stocks": [
+        "ICICIBANK",
+        "HDFCBANK",
+        "SBIN"
+      ]
+    },
+    {
+      "name": "Healthcare",
+      "score": 6.55,
+      "verdict": "ACCUMULATE",
+      "avg_1m": 6.35,
+      "avg_rsi": 64.5,
+      "top_stocks": [
+        "LUPIN",
+        "DIVISLAB",
+        "DRREDDY"
+      ]
+    },
+    {
+      "name": "Consumer Discretionary",
+      "score": 6.53,
+      "verdict": "ACCUMULATE",
+      "avg_1m": 6.22,
+      "avg_rsi": 60.1,
+      "top_stocks": [
+        "MARUTI",
+        "M&M",
+        "HEROMOTOCO"
+      ]
+    },
+    {
+      "name": "Telecom",
+      "score": 6.25,
+      "verdict": "ACCUMULATE",
+      "avg_1m": 6.52,
+      "avg_rsi": 54.8,
+      "top_stocks": [
+        "HFCL",
+        "BHARTIARTL",
+        "RAILTEL"
+      ]
+    },
+    {
+      "name": "Information Technology",
+      "score": 5.45,
+      "verdict": "HOLD",
+      "avg_1m": -2.99,
+      "avg_rsi": 48.4,
+      "top_stocks": [
+        "HCLTECH",
+        "TECHM",
+        "TCS"
+      ]
+    },
+    {
+      "name": "Energy",
+      "score": 5.33,
+      "verdict": "HOLD",
+      "avg_1m": 3.94,
+      "avg_rsi": 51.1,
+      "top_stocks": [
+        "BPCL",
+        "HINDPETRO",
+        "IOC"
+      ]
+    },
+    {
+      "name": "Media & Entertainment",
+      "score": 5.18,
+      "verdict": "HOLD",
+      "avg_1m": -0.67,
+      "avg_rsi": 47.6,
+      "top_stocks": [
+        "PVRINOX",
+        "SAREGAMA",
+        "NETWORK18"
+      ]
+    },
+    {
+      "name": "Industrials",
+      "score": 5.1,
+      "verdict": "HOLD",
+      "avg_1m": 1.68,
+      "avg_rsi": 47.6,
+      "top_stocks": [
+        "HAVELLS",
+        "VOLTAS",
+        "LT"
+      ]
+    },
+    {
+      "name": "Agriculture",
+      "score": 4.95,
+      "verdict": "AVOID",
+      "avg_1m": 0.75,
+      "avg_rsi": 47.3,
+      "top_stocks": [
+        "KAVERI",
+        "RALLIS",
+        "DHANUKA"
+      ]
+    },
+    {
+      "name": "Basic Materials",
+      "score": 3.77,
+      "verdict": "AVOID",
+      "avg_1m": -6.24,
+      "avg_rsi": 38.2,
+      "top_stocks": [
+        "JSWSTEEL",
+        "TATASTEEL",
+        "NMDC"
+      ]
+    }
+  ],
+  "stocks": []
+}

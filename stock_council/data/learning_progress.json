@@ -1,0 +1,169 @@
+{
+  "daily_log": [
+    {
+      "date": "2026-06-17",
+      "day": 1,
+      "accuracy_1d": 33.3,
+      "stocks_debated": 19,
+      "opt_runs": 3,
+      "prices_ok": 0,
+      "portfolio_value": 100000.0,
+      "portfolio_pl": 0.0,
+      "portfolio_ret": 0.0
+    },
+    {
+      "date": "2026-06-19",
+      "day": 2,
+      "accuracy_1d": null,
+      "stocks_debated": 18,
+      "opt_runs": 5,
+      "prices_ok": 400,
+      "portfolio_value": 100305.85,
+      "portfolio_pl": 305.8500000000058,
+      "portfolio_ret": 0.30585000000000584
+    },
+    {
+      "date": "2026-06-19",
+      "day": 3,
+      "accuracy_1d": 50.0,
+      "stocks_debated": 18,
+      "opt_runs": 6,
+      "prices_ok": 401,
+      "portfolio_value": 100130.57,
+      "portfolio_pl": 130.57000000000698,
+      "portfolio_ret": 0.13057000000000699
+    },
+    {
+      "date": "2026-06-22",
+      "day": 4,
+      "accuracy_1d": 38.9,
+      "stocks_debated": 19,
+      "opt_runs": 7,
+      "prices_ok": 401,
+      "portfolio_value": 100281.62,
+      "portfolio_pl": 281.61999999999534,
+      "portfolio_ret": 0.2816199999999954
+    },
+    {
+      "date": "2026-06-23",
+      "day": 5,
+      "accuracy_1d": 35.7,
+      "stocks_debated": 17,
+      "opt_runs": 8,
+      "prices_ok": 401,
+      "portfolio_value": 99624.2,
+      "portfolio_pl": -375.8000000000029,
+      "portfolio_ret": -0.3758000000000029
+    },
+    {
+      "date": "2026-06-24",
+      "day": 6,
+      "accuracy_1d": 76.9,
+      "stocks_debated": 17,
+      "opt_runs": 8,
+      "prices_ok": 395,
+      "portfolio_value": 100042.58,
+      "portfolio_pl": 42.580000000001746,
+      "portfolio_ret": 0.04258000000000175
+    },
+    {
+      "date": "2026-06-25",
+      "day": 7,
+      "accuracy_1d": 46.2,
+      "stocks_debated": 19,
+      "opt_runs": 9,
+      "prices_ok": 401,
+      "portfolio_value": 99991.28,
+      "portfolio_pl": -8.720000000001164,
+      "portfolio_ret": -0.008720000000001164
+    },
+    {
+      "date": "2026-06-29",
+      "day": 8,
+      "accuracy_1d": 44.4,
+      "stocks_debated": 18,
+      "opt_runs": 10,
+      "prices_ok": 401,
+      "portfolio_value": 99614.74,
+      "portfolio_pl": -385.25999999999476,
+      "portfolio_ret": -0.3852599999999948
+    },
+    {
+      "date": "2026-06-30",
+      "day": 9,
+      "accuracy_1d": 55.6,
+      "stocks_debated": 16,
+      "opt_runs": 10,
+      "prices_ok": 162,
+      "portfolio_value": 99650.82,
+      "portfolio_pl": -349.179999999993,
+      "portfolio_ret": -0.349179999999993
+    },
+    {
+      "date": "2026-07-01",
+      "day": 10,
+      "accuracy_1d": 56.0,
+      "stocks_debated": 16,
+      "opt_runs": 10,
+      "prices_ok": 401,
+      "portfolio_value": 99989.69,
+      "portfolio_pl": -10.309999999997672,
+      "portfolio_ret": -0.010309999999997672
+    },
+    {
+      "date": "2026-07-02",
+      "day": 11,
+      "accuracy_1d": 56.5,
+      "stocks_debated": 20,
+      "opt_runs": 10,
+      "prices_ok": 201,
+      "portfolio_value": 99942.91,
+      "portfolio_pl": -57.08999999999651,
+      "portfolio_ret": -0.057089999999996505
+    },
+    {
+      "date": "2026-07-04",
+      "day": 12,
+      "accuracy_1d": null,
+      "stocks_debated": 0,
+      "opt_runs": 0,
+      "prices_ok": 0,
+      "portfolio_value": 100355.31,
+      "portfolio_pl": 355.31,
+      "portfolio_ret": 0.36
+    },
+    {
+      "date": "2026-07-06",
+      "day": 13,
+      "accuracy_1d": 0.0,
+      "stocks_debated": 15,
+      "opt_runs": 12,
+      "prices_ok": 0,
+      "portfolio_value": 101109.37,
+      "portfolio_pl": 1109.37,
+      "portfolio_ret": 1.11
+    },
+    {
+      "date": "2026-07-07",
+      "day": 14,
+      "accuracy_1d": 0.0,
+      "stocks_debated": 23,
+      "opt_runs": 14,
+      "prices_ok": 0,
+      "portfolio_value": 100913.3,
+      "portfolio_pl": 913.3000000000029,
+      "portfolio_ret": 0.9133000000000028
+    },
+    {
+      "date":            "2026-07-08",
+      "day":             15,
+      "accuracy_1d":     62.5,
+      "stocks_debated":  17,
+      "opt_runs":        14,
+      "prices_ok":       401,
+      "portfolio_value": 99787.0,
+      "portfolio_pl":    -213.0,
+      "portfolio_ret":   -0.213
+    }
+  ]
+}
