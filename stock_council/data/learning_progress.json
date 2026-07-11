@@ -155,15 +155,37 @@
       "portfolio_ret": 0.9133000000000028
     },
     {
-      "date":            "2026-07-08",
-      "day":             15,
-      "accuracy_1d":     62.5,
-      "stocks_debated":  17,
-      "opt_runs":        14,
-      "prices_ok":       401,
+      "date": "2026-07-08",
+      "day": 15,
+      "accuracy_1d": 0,
+      "stocks_debated": 0,
+      "opt_runs": 0,
+      "prices_ok": 0,
       "portfolio_value": 99787.0,
-      "portfolio_pl":    -213.0,
-      "portfolio_ret":   -0.213
+      "portfolio_pl": -213.0,
+      "portfolio_ret": -0.213
+    },
+    {
+      "date": "2026-07-09",
+      "day": 16,
+      "accuracy_1d": 0,
+      "stocks_debated": 0,
+      "opt_runs": 0,
+      "prices_ok": 0,
+      "portfolio_value": 100260.21,
+      "portfolio_pl": 260.21,
+      "portfolio_ret": 0.26
+    },
+    {
+      "date": "2026-07-10",
+      "day": 17,
+      "accuracy_1d": 0,
+      "stocks_debated": 0,
+      "opt_runs": 0,
+      "prices_ok": 0,
+      "portfolio_value": 100877.64,
+      "portfolio_pl": 877.64,
+      "portfolio_ret": 0.878
     }
   ]
 }
